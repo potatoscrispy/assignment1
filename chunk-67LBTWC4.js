@@ -9,7 +9,7 @@ var D = (() => {
   let t = class t {
     constructor() {
       this.recommendedItems = [
-        { src: "assignment1/assets/images/product1.jpg", title: "Product 10", description: "Description 10", price: "$40" },
+        { src: "assets/images/product1.jpg", title: "Product 10", description: "Description 10", price: "$40" },
         { src: "assets/images/product2.jpg", title: "Product 11", description: "Description 11", price: "$50" },
         { src: "assets/images/product3.jpg", title: "Product 12", description: "Description 12", price: "$60" },
         { src: "assets/images/product2.jpg", title: "Product 16", description: "Description 16", price: "$40" },
